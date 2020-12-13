@@ -96,12 +96,14 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          c) algorytm rekurencyjny
          d) algorytm sekwencyjny (poprawna odpowiedź)
 
-23.  Jak nazywa się liniowa struktura danych, w której nowe dane dopisywane są na końcu, a z początku pobierane są dane do dalszego przetwarzania: (Joanna Remiasz)
-   Odp:  a) stos  
-         b) kolejka (poprawna odpowiedź)
-         c) kopiec
-         d) graf
-  
+23. Wymień minimum 3 przykładowe struktury danych. (Joanna Remiasz)
+   Odp:  -lista
+         -stos
+         -kolejka
+         -graf 
+         -kopiec  
+         -drzewo
+
 24. Czym różni się stos, a kolejka? (Joanna Remiasz)
    Odp: -stos i kolejka to liniowe struktury danych 
          -na stosie element, który doszedł ostatni jest zużywany jako pierwszy 
@@ -160,4 +162,7 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    + Samemu się wywołać
    - Posiadać nieskończoną pętle WHILE
    - Samemu wykonać iterację
-
+36. Czym charakteryzuje się ścieżka Eulera? (Daria Krupowska)
+   Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
+   37. Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
+Ścieżka, która odwiedza każdy wierzchołek dokładnie jeden raz.
